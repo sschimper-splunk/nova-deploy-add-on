@@ -2,7 +2,7 @@
 
 # Edit these four variables
 IP_ADDRESS=""
-PASSWORD="splk"
+PASSWORD=""
 TA_NAME=""
 TA_VERSION="1.0.0"
 
